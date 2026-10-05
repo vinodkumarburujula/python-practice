@@ -1,0 +1,8 @@
+numbers=set([1,2,3,4,5,6,2,3,4,5])
+print(numbers)
+numbers.add(10)
+print(numbers)
+numbers.update([7,8])
+print(numbers)
+#numbers.remove([11])
+print(numbers)
